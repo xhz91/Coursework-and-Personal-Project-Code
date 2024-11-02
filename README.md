@@ -1,0 +1,1 @@
+This repository contains the code and relevant file for my previous coursework at MSc Artificial Intelligence at Imperial College London, as well as the files for my personal NLP project. The files are organised into project folders.
