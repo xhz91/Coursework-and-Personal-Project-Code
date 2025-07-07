@@ -1,0 +1,801 @@
+Training with mask_ratio=0.2, saving model to xlnet_analyzer_train_save/xlnet_analyzer_model_mask_2.pth
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+epoch:, 1 -- batch: 10 -- avg loss: 0.6503
+epoch:, 1 -- batch: 20 -- avg loss: 0.3246
+epoch:, 1 -- batch: 30 -- avg loss: 0.2330
+epoch:, 1 -- batch: 40 -- avg loss: 0.1929
+epoch:, 1 -- batch: 50 -- avg loss: 0.1670
+epoch:, 1 -- batch: 60 -- avg loss: 0.1869
+epoch:, 1 -- batch: 70 -- avg loss: 0.1232
+epoch:, 1 -- batch: 80 -- avg loss: 0.1537
+epoch:, 1 -- batch: 90 -- avg loss: 0.1536
+epoch:, 1 -- batch: 100 -- avg loss: 0.1383
+epoch:, 1 -- batch: 110 -- avg loss: 0.1131
+epoch:, 1 -- batch: 120 -- avg loss: 0.1419
+epoch:, 1 -- batch: 130 -- avg loss: 0.1306
+epoch:, 1 -- batch: 140 -- avg loss: 0.0915
+epoch:, 1 -- batch: 150 -- avg loss: 0.1214
+epoch:, 1 -- batch: 160 -- avg loss: 0.1210
+epoch:, 1 -- batch: 170 -- avg loss: 0.1244
+epoch:, 1 -- batch: 180 -- avg loss: 0.1396
+epoch:, 1 -- batch: 190 -- avg loss: 0.1046
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+epoch:, 2 -- batch: 10 -- avg loss: 0.0586
+epoch:, 2 -- batch: 20 -- avg loss: 0.0419
+epoch:, 2 -- batch: 30 -- avg loss: 0.0321
+epoch:, 2 -- batch: 40 -- avg loss: 0.0315
+epoch:, 2 -- batch: 50 -- avg loss: 0.0356
+epoch:, 2 -- batch: 60 -- avg loss: 0.0609
+epoch:, 2 -- batch: 70 -- avg loss: 0.0346
+epoch:, 2 -- batch: 80 -- avg loss: 0.0427
+epoch:, 2 -- batch: 90 -- avg loss: 0.0415
+epoch:, 2 -- batch: 100 -- avg loss: 0.0517
+epoch:, 2 -- batch: 110 -- avg loss: 0.0468
+epoch:, 2 -- batch: 120 -- avg loss: 0.0568
+epoch:, 2 -- batch: 130 -- avg loss: 0.0419
+epoch:, 2 -- batch: 140 -- avg loss: 0.0474
+epoch:, 2 -- batch: 150 -- avg loss: 0.0300
+epoch:, 2 -- batch: 160 -- avg loss: 0.0376
+epoch:, 2 -- batch: 170 -- avg loss: 0.0632
+epoch:, 2 -- batch: 180 -- avg loss: 0.0513
+epoch:, 2 -- batch: 190 -- avg loss: 0.0239
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+epoch:, 3 -- batch: 10 -- avg loss: 0.0124
+epoch:, 3 -- batch: 20 -- avg loss: 0.0064
+epoch:, 3 -- batch: 30 -- avg loss: 0.0059
+epoch:, 3 -- batch: 40 -- avg loss: 0.0040
+epoch:, 3 -- batch: 50 -- avg loss: 0.0040
+epoch:, 3 -- batch: 60 -- avg loss: 0.0023
+epoch:, 3 -- batch: 70 -- avg loss: 0.0034
+epoch:, 3 -- batch: 80 -- avg loss: 0.0031
+epoch:, 3 -- batch: 90 -- avg loss: 0.0030
+epoch:, 3 -- batch: 100 -- avg loss: 0.0050
+epoch:, 3 -- batch: 110 -- avg loss: 0.0033
+epoch:, 3 -- batch: 120 -- avg loss: 0.0082
+epoch:, 3 -- batch: 130 -- avg loss: 0.0141
+epoch:, 3 -- batch: 140 -- avg loss: 0.0060
+epoch:, 3 -- batch: 150 -- avg loss: 0.0069
+epoch:, 3 -- batch: 160 -- avg loss: 0.0064
+epoch:, 3 -- batch: 170 -- avg loss: 0.0054
+epoch:, 3 -- batch: 180 -- avg loss: 0.0134
+epoch:, 3 -- batch: 190 -- avg loss: 0.0111
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+epoch:, 4 -- batch: 10 -- avg loss: 0.0011
+epoch:, 4 -- batch: 20 -- avg loss: 0.0021
+epoch:, 4 -- batch: 30 -- avg loss: 0.0018
+epoch:, 4 -- batch: 40 -- avg loss: 0.0026
+epoch:, 4 -- batch: 50 -- avg loss: 0.0016
+epoch:, 4 -- batch: 60 -- avg loss: 0.0008
+epoch:, 4 -- batch: 70 -- avg loss: 0.0025
+epoch:, 4 -- batch: 80 -- avg loss: 0.0005
+epoch:, 4 -- batch: 90 -- avg loss: 0.0012
+epoch:, 4 -- batch: 100 -- avg loss: 0.0005
+epoch:, 4 -- batch: 110 -- avg loss: 0.0005
+epoch:, 4 -- batch: 120 -- avg loss: 0.0005
+epoch:, 4 -- batch: 130 -- avg loss: 0.0004
+epoch:, 4 -- batch: 140 -- avg loss: 0.0030
+epoch:, 4 -- batch: 150 -- avg loss: 0.0014
+epoch:, 4 -- batch: 160 -- avg loss: 0.0060
+epoch:, 4 -- batch: 170 -- avg loss: 0.0024
+epoch:, 4 -- batch: 180 -- avg loss: 0.0007
+epoch:, 4 -- batch: 190 -- avg loss: 0.0003
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+epoch:, 5 -- batch: 10 -- avg loss: 0.0003
+epoch:, 5 -- batch: 20 -- avg loss: 0.0002
+epoch:, 5 -- batch: 30 -- avg loss: 0.0002
+epoch:, 5 -- batch: 40 -- avg loss: 0.0001
+epoch:, 5 -- batch: 50 -- avg loss: 0.0002
+epoch:, 5 -- batch: 60 -- avg loss: 0.0003
+epoch:, 5 -- batch: 70 -- avg loss: 0.0004
+epoch:, 5 -- batch: 80 -- avg loss: 0.0003
+epoch:, 5 -- batch: 90 -- avg loss: 0.0004
+epoch:, 5 -- batch: 100 -- avg loss: 0.0007
+epoch:, 5 -- batch: 110 -- avg loss: 0.0002
+epoch:, 5 -- batch: 120 -- avg loss: 0.0003
+epoch:, 5 -- batch: 130 -- avg loss: 0.0003
+epoch:, 5 -- batch: 140 -- avg loss: 0.0002
+epoch:, 5 -- batch: 150 -- avg loss: 0.0001
+epoch:, 5 -- batch: 160 -- avg loss: 0.0001
+epoch:, 5 -- batch: 170 -- avg loss: 0.0002
+epoch:, 5 -- batch: 180 -- avg loss: 0.0001
+epoch:, 5 -- batch: 190 -- avg loss: 0.0001
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Accuracy: 0.9110
+Confusion Matrix:
+[[1471   54]
+ [  95   55]]
+f1
+0.4247104247104247
+F1 Score on val_df for mask_ratio=0.2: 0.4247
+--------------------------------------------------
+Training with mask_ratio=0.4, saving model to xlnet_analyzer_train_save/xlnet_analyzer_model_mask_4.pth
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+epoch:, 1 -- batch: 10 -- avg loss: 0.7740
+epoch:, 1 -- batch: 20 -- avg loss: 0.2294
+epoch:, 1 -- batch: 30 -- avg loss: 0.1900
+epoch:, 1 -- batch: 40 -- avg loss: 0.2057
+epoch:, 1 -- batch: 50 -- avg loss: 0.1395
+epoch:, 1 -- batch: 60 -- avg loss: 0.1277
+epoch:, 1 -- batch: 70 -- avg loss: 0.1492
+epoch:, 1 -- batch: 80 -- avg loss: 0.1291
+epoch:, 1 -- batch: 90 -- avg loss: 0.1338
+epoch:, 1 -- batch: 100 -- avg loss: 0.1264
+epoch:, 1 -- batch: 110 -- avg loss: 0.1322
+epoch:, 1 -- batch: 120 -- avg loss: 0.1602
+epoch:, 1 -- batch: 130 -- avg loss: 0.1257
+epoch:, 1 -- batch: 140 -- avg loss: 0.1514
+epoch:, 1 -- batch: 150 -- avg loss: 0.1100
+epoch:, 1 -- batch: 160 -- avg loss: 0.1234
+epoch:, 1 -- batch: 170 -- avg loss: 0.1116
+epoch:, 1 -- batch: 180 -- avg loss: 0.1175
+epoch:, 1 -- batch: 190 -- avg loss: 0.1292
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+epoch:, 2 -- batch: 10 -- avg loss: 0.0840
+epoch:, 2 -- batch: 20 -- avg loss: 0.0748
+epoch:, 2 -- batch: 30 -- avg loss: 0.0543
+epoch:, 2 -- batch: 40 -- avg loss: 0.0632
+epoch:, 2 -- batch: 50 -- avg loss: 0.0621
+epoch:, 2 -- batch: 60 -- avg loss: 0.0791
+epoch:, 2 -- batch: 70 -- avg loss: 0.0779
+epoch:, 2 -- batch: 80 -- avg loss: 0.0495
+epoch:, 2 -- batch: 90 -- avg loss: 0.0825
+epoch:, 2 -- batch: 100 -- avg loss: 0.0811
+epoch:, 2 -- batch: 110 -- avg loss: 0.0326
+epoch:, 2 -- batch: 120 -- avg loss: 0.0395
+epoch:, 2 -- batch: 130 -- avg loss: 0.0496
+epoch:, 2 -- batch: 140 -- avg loss: 0.0658
+epoch:, 2 -- batch: 150 -- avg loss: 0.1011
+epoch:, 2 -- batch: 160 -- avg loss: 0.0816
+epoch:, 2 -- batch: 170 -- avg loss: 0.0605
+epoch:, 2 -- batch: 180 -- avg loss: 0.0589
+epoch:, 2 -- batch: 190 -- avg loss: 0.1063
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+epoch:, 3 -- batch: 10 -- avg loss: 0.0340
+epoch:, 3 -- batch: 20 -- avg loss: 0.0308
+epoch:, 3 -- batch: 30 -- avg loss: 0.0416
+epoch:, 3 -- batch: 40 -- avg loss: 0.0259
+epoch:, 3 -- batch: 50 -- avg loss: 0.0195
+epoch:, 3 -- batch: 60 -- avg loss: 0.0166
+epoch:, 3 -- batch: 70 -- avg loss: 0.0074
+epoch:, 3 -- batch: 80 -- avg loss: 0.0070
+epoch:, 3 -- batch: 90 -- avg loss: 0.0113
+epoch:, 3 -- batch: 100 -- avg loss: 0.0105
+epoch:, 3 -- batch: 110 -- avg loss: 0.0102
+epoch:, 3 -- batch: 120 -- avg loss: 0.0277
+epoch:, 3 -- batch: 130 -- avg loss: 0.0258
+epoch:, 3 -- batch: 140 -- avg loss: 0.0152
+epoch:, 3 -- batch: 150 -- avg loss: 0.0090
+epoch:, 3 -- batch: 160 -- avg loss: 0.0095
+epoch:, 3 -- batch: 170 -- avg loss: 0.0156
+epoch:, 3 -- batch: 180 -- avg loss: 0.0161
+epoch:, 3 -- batch: 190 -- avg loss: 0.0377
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+epoch:, 4 -- batch: 10 -- avg loss: 0.0078
+epoch:, 4 -- batch: 20 -- avg loss: 0.0105
+epoch:, 4 -- batch: 30 -- avg loss: 0.0146
+epoch:, 4 -- batch: 40 -- avg loss: 0.0107
+epoch:, 4 -- batch: 50 -- avg loss: 0.0040
+epoch:, 4 -- batch: 60 -- avg loss: 0.0019
+epoch:, 4 -- batch: 70 -- avg loss: 0.0037
+epoch:, 4 -- batch: 80 -- avg loss: 0.0034
+epoch:, 4 -- batch: 90 -- avg loss: 0.0047
+epoch:, 4 -- batch: 100 -- avg loss: 0.0056
+epoch:, 4 -- batch: 110 -- avg loss: 0.0046
+epoch:, 4 -- batch: 120 -- avg loss: 0.0029
+epoch:, 4 -- batch: 130 -- avg loss: 0.0015
+epoch:, 4 -- batch: 140 -- avg loss: 0.0009
+epoch:, 4 -- batch: 150 -- avg loss: 0.0017
+epoch:, 4 -- batch: 160 -- avg loss: 0.0014
+epoch:, 4 -- batch: 170 -- avg loss: 0.0014
+epoch:, 4 -- batch: 180 -- avg loss: 0.0012
+epoch:, 4 -- batch: 190 -- avg loss: 0.0009
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+epoch:, 5 -- batch: 10 -- avg loss: 0.0005
+epoch:, 5 -- batch: 20 -- avg loss: 0.0003
+epoch:, 5 -- batch: 30 -- avg loss: 0.0008
+epoch:, 5 -- batch: 40 -- avg loss: 0.0002
+epoch:, 5 -- batch: 50 -- avg loss: 0.0002
+epoch:, 5 -- batch: 60 -- avg loss: 0.0001
+epoch:, 5 -- batch: 70 -- avg loss: 0.0003
+epoch:, 5 -- batch: 80 -- avg loss: 0.0002
+epoch:, 5 -- batch: 90 -- avg loss: 0.0003
+epoch:, 5 -- batch: 100 -- avg loss: 0.0016
+epoch:, 5 -- batch: 110 -- avg loss: 0.0002
+epoch:, 5 -- batch: 120 -- avg loss: 0.0004
+epoch:, 5 -- batch: 130 -- avg loss: 0.0004
+epoch:, 5 -- batch: 140 -- avg loss: 0.0007
+epoch:, 5 -- batch: 150 -- avg loss: 0.0008
+epoch:, 5 -- batch: 160 -- avg loss: 0.0001
+epoch:, 5 -- batch: 170 -- avg loss: 0.0002
+epoch:, 5 -- batch: 180 -- avg loss: 0.0007
+epoch:, 5 -- batch: 190 -- avg loss: 0.0009
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Accuracy: 0.9110
+Confusion Matrix:
+[[1475   50]
+ [  99   51]]
+f1
+0.4063745019920319
+F1 Score on val_df for mask_ratio=0.4: 0.4064
+--------------------------------------------------
+Training with mask_ratio=0.6, saving model to xlnet_analyzer_train_save/xlnet_analyzer_model_mask_6.pth
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+epoch:, 1 -- batch: 10 -- avg loss: 0.4421
+epoch:, 1 -- batch: 20 -- avg loss: 0.2235
+epoch:, 1 -- batch: 30 -- avg loss: 0.2023
+epoch:, 1 -- batch: 40 -- avg loss: 0.1668
+epoch:, 1 -- batch: 50 -- avg loss: 0.1688
+epoch:, 1 -- batch: 60 -- avg loss: 0.1369
+epoch:, 1 -- batch: 70 -- avg loss: 0.1043
+epoch:, 1 -- batch: 80 -- avg loss: 0.1537
+epoch:, 1 -- batch: 90 -- avg loss: 0.1359
+epoch:, 1 -- batch: 100 -- avg loss: 0.1086
+epoch:, 1 -- batch: 110 -- avg loss: 0.1301
+epoch:, 1 -- batch: 120 -- avg loss: 0.1442
+epoch:, 1 -- batch: 130 -- avg loss: 0.0868
+epoch:, 1 -- batch: 140 -- avg loss: 0.1067
+epoch:, 1 -- batch: 150 -- avg loss: 0.0889
+epoch:, 1 -- batch: 160 -- avg loss: 0.1022
+epoch:, 1 -- batch: 170 -- avg loss: 0.1542
+epoch:, 1 -- batch: 180 -- avg loss: 0.1108
+epoch:, 1 -- batch: 190 -- avg loss: 0.1397
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+epoch:, 2 -- batch: 10 -- avg loss: 0.0986
+epoch:, 2 -- batch: 20 -- avg loss: 0.0878
+epoch:, 2 -- batch: 30 -- avg loss: 0.0633
+epoch:, 2 -- batch: 40 -- avg loss: 0.0521
+epoch:, 2 -- batch: 50 -- avg loss: 0.0724
+epoch:, 2 -- batch: 60 -- avg loss: 0.0810
+epoch:, 2 -- batch: 70 -- avg loss: 0.0559
+epoch:, 2 -- batch: 80 -- avg loss: 0.0573
+epoch:, 2 -- batch: 90 -- avg loss: 0.0650
+epoch:, 2 -- batch: 100 -- avg loss: 0.0491
+epoch:, 2 -- batch: 110 -- avg loss: 0.0543
+epoch:, 2 -- batch: 120 -- avg loss: 0.0441
+epoch:, 2 -- batch: 130 -- avg loss: 0.0671
+epoch:, 2 -- batch: 140 -- avg loss: 0.0465
+epoch:, 2 -- batch: 150 -- avg loss: 0.0686
+epoch:, 2 -- batch: 160 -- avg loss: 0.0780
+epoch:, 2 -- batch: 170 -- avg loss: 0.0666
+epoch:, 2 -- batch: 180 -- avg loss: 0.0898
+epoch:, 2 -- batch: 190 -- avg loss: 0.0715
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+epoch:, 3 -- batch: 10 -- avg loss: 0.0252
+epoch:, 3 -- batch: 20 -- avg loss: 0.0145
+epoch:, 3 -- batch: 30 -- avg loss: 0.0073
+epoch:, 3 -- batch: 40 -- avg loss: 0.0121
+epoch:, 3 -- batch: 50 -- avg loss: 0.0068
+epoch:, 3 -- batch: 60 -- avg loss: 0.0214
+epoch:, 3 -- batch: 70 -- avg loss: 0.0477
+epoch:, 3 -- batch: 80 -- avg loss: 0.0414
+epoch:, 3 -- batch: 90 -- avg loss: 0.0411
+epoch:, 3 -- batch: 100 -- avg loss: 0.0440
+epoch:, 3 -- batch: 110 -- avg loss: 0.0351
+epoch:, 3 -- batch: 120 -- avg loss: 0.0707
+epoch:, 3 -- batch: 130 -- avg loss: 0.0720
+epoch:, 3 -- batch: 140 -- avg loss: 0.0351
+epoch:, 3 -- batch: 150 -- avg loss: 0.0220
+epoch:, 3 -- batch: 160 -- avg loss: 0.0237
+epoch:, 3 -- batch: 170 -- avg loss: 0.0316
+epoch:, 3 -- batch: 180 -- avg loss: 0.0182
+epoch:, 3 -- batch: 190 -- avg loss: 0.0249
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+epoch:, 4 -- batch: 10 -- avg loss: 0.0082
+epoch:, 4 -- batch: 20 -- avg loss: 0.0051
+epoch:, 4 -- batch: 30 -- avg loss: 0.0071
+epoch:, 4 -- batch: 40 -- avg loss: 0.0034
+epoch:, 4 -- batch: 50 -- avg loss: 0.0016
+epoch:, 4 -- batch: 60 -- avg loss: 0.0035
+epoch:, 4 -- batch: 70 -- avg loss: 0.0036
+epoch:, 4 -- batch: 80 -- avg loss: 0.0050
+epoch:, 4 -- batch: 90 -- avg loss: 0.0018
+epoch:, 4 -- batch: 100 -- avg loss: 0.0022
+epoch:, 4 -- batch: 110 -- avg loss: 0.0046
+epoch:, 4 -- batch: 120 -- avg loss: 0.0036
+epoch:, 4 -- batch: 130 -- avg loss: 0.0059
+epoch:, 4 -- batch: 140 -- avg loss: 0.0022
+epoch:, 4 -- batch: 150 -- avg loss: 0.0048
+epoch:, 4 -- batch: 160 -- avg loss: 0.0079
+epoch:, 4 -- batch: 170 -- avg loss: 0.0046
+epoch:, 4 -- batch: 180 -- avg loss: 0.0113
+epoch:, 4 -- batch: 190 -- avg loss: 0.0036
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+epoch:, 5 -- batch: 10 -- avg loss: 0.0009
+epoch:, 5 -- batch: 20 -- avg loss: 0.0010
+epoch:, 5 -- batch: 30 -- avg loss: 0.0009
+epoch:, 5 -- batch: 40 -- avg loss: 0.0007
+epoch:, 5 -- batch: 50 -- avg loss: 0.0013
+epoch:, 5 -- batch: 60 -- avg loss: 0.0006
+epoch:, 5 -- batch: 70 -- avg loss: 0.0014
+epoch:, 5 -- batch: 80 -- avg loss: 0.0003
+epoch:, 5 -- batch: 90 -- avg loss: 0.0004
+epoch:, 5 -- batch: 100 -- avg loss: 0.0012
+epoch:, 5 -- batch: 110 -- avg loss: 0.0008
+epoch:, 5 -- batch: 120 -- avg loss: 0.0007
+epoch:, 5 -- batch: 130 -- avg loss: 0.0010
+epoch:, 5 -- batch: 140 -- avg loss: 0.0009
+epoch:, 5 -- batch: 150 -- avg loss: 0.0056
+epoch:, 5 -- batch: 160 -- avg loss: 0.0049
+epoch:, 5 -- batch: 170 -- avg loss: 0.0012
+epoch:, 5 -- batch: 180 -- avg loss: 0.0064
+epoch:, 5 -- batch: 190 -- avg loss: 0.0158
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Accuracy: 0.9182
+Confusion Matrix:
+[[1522    3]
+ [ 134   16]]
+f1
+0.1893491124260355
+F1 Score on val_df for mask_ratio=0.6: 0.1893
+--------------------------------------------------
+Training with mask_ratio=0.8, saving model to xlnet_analyzer_train_save/xlnet_analyzer_model_mask_8.pth
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+epoch:, 1 -- batch: 10 -- avg loss: 0.8317
+epoch:, 1 -- batch: 20 -- avg loss: 0.2239
+epoch:, 1 -- batch: 30 -- avg loss: 0.1755
+epoch:, 1 -- batch: 40 -- avg loss: 0.1072
+epoch:, 1 -- batch: 50 -- avg loss: 0.1623
+epoch:, 1 -- batch: 60 -- avg loss: 0.1535
+epoch:, 1 -- batch: 70 -- avg loss: 0.1510
+epoch:, 1 -- batch: 80 -- avg loss: 0.1270
+epoch:, 1 -- batch: 90 -- avg loss: 0.1247
+epoch:, 1 -- batch: 100 -- avg loss: 0.1325
+epoch:, 1 -- batch: 110 -- avg loss: 0.1235
+epoch:, 1 -- batch: 120 -- avg loss: 0.1177
+epoch:, 1 -- batch: 130 -- avg loss: 0.1667
+epoch:, 1 -- batch: 140 -- avg loss: 0.1161
+epoch:, 1 -- batch: 150 -- avg loss: 0.1232
+epoch:, 1 -- batch: 160 -- avg loss: 0.1122
+epoch:, 1 -- batch: 170 -- avg loss: 0.1088
+epoch:, 1 -- batch: 180 -- avg loss: 0.1017
+epoch:, 1 -- batch: 190 -- avg loss: 0.1507
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+epoch:, 2 -- batch: 10 -- avg loss: 0.0901
+epoch:, 2 -- batch: 20 -- avg loss: 0.0621
+epoch:, 2 -- batch: 30 -- avg loss: 0.0899
+epoch:, 2 -- batch: 40 -- avg loss: 0.0814
+epoch:, 2 -- batch: 50 -- avg loss: 0.0802
+epoch:, 2 -- batch: 60 -- avg loss: 0.0638
+epoch:, 2 -- batch: 70 -- avg loss: 0.0657
+epoch:, 2 -- batch: 80 -- avg loss: 0.0804
+epoch:, 2 -- batch: 90 -- avg loss: 0.0712
+epoch:, 2 -- batch: 100 -- avg loss: 0.0519
+epoch:, 2 -- batch: 110 -- avg loss: 0.0593
+epoch:, 2 -- batch: 120 -- avg loss: 0.0617
+epoch:, 2 -- batch: 130 -- avg loss: 0.0771
+epoch:, 2 -- batch: 140 -- avg loss: 0.0965
+epoch:, 2 -- batch: 150 -- avg loss: 0.0893
+epoch:, 2 -- batch: 160 -- avg loss: 0.0916
+epoch:, 2 -- batch: 170 -- avg loss: 0.0790
+epoch:, 2 -- batch: 180 -- avg loss: 0.0704
+epoch:, 2 -- batch: 190 -- avg loss: 0.0838
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+epoch:, 3 -- batch: 10 -- avg loss: 0.0292
+epoch:, 3 -- batch: 20 -- avg loss: 0.0166
+epoch:, 3 -- batch: 30 -- avg loss: 0.0225
+epoch:, 3 -- batch: 40 -- avg loss: 0.0130
+epoch:, 3 -- batch: 50 -- avg loss: 0.0292
+epoch:, 3 -- batch: 60 -- avg loss: 0.0226
+epoch:, 3 -- batch: 70 -- avg loss: 0.0409
+epoch:, 3 -- batch: 80 -- avg loss: 0.0142
+epoch:, 3 -- batch: 90 -- avg loss: 0.0225
+epoch:, 3 -- batch: 100 -- avg loss: 0.0257
+epoch:, 3 -- batch: 110 -- avg loss: 0.0163
+epoch:, 3 -- batch: 120 -- avg loss: 0.0198
+epoch:, 3 -- batch: 130 -- avg loss: 0.0168
+epoch:, 3 -- batch: 140 -- avg loss: 0.0167
+epoch:, 3 -- batch: 150 -- avg loss: 0.0151
+epoch:, 3 -- batch: 160 -- avg loss: 0.0212
+epoch:, 3 -- batch: 170 -- avg loss: 0.0192
+epoch:, 3 -- batch: 180 -- avg loss: 0.0353
+epoch:, 3 -- batch: 190 -- avg loss: 0.0129
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+epoch:, 4 -- batch: 10 -- avg loss: 0.0147
+epoch:, 4 -- batch: 20 -- avg loss: 0.0059
+epoch:, 4 -- batch: 30 -- avg loss: 0.0092
+epoch:, 4 -- batch: 40 -- avg loss: 0.0063
+epoch:, 4 -- batch: 50 -- avg loss: 0.0044
+epoch:, 4 -- batch: 60 -- avg loss: 0.0072
+epoch:, 4 -- batch: 70 -- avg loss: 0.0028
+epoch:, 4 -- batch: 80 -- avg loss: 0.0040
+epoch:, 4 -- batch: 90 -- avg loss: 0.0014
+epoch:, 4 -- batch: 100 -- avg loss: 0.0024
+epoch:, 4 -- batch: 110 -- avg loss: 0.0046
+epoch:, 4 -- batch: 120 -- avg loss: 0.0028
+epoch:, 4 -- batch: 130 -- avg loss: 0.0038
+epoch:, 4 -- batch: 140 -- avg loss: 0.0166
+epoch:, 4 -- batch: 150 -- avg loss: 0.0348
+epoch:, 4 -- batch: 160 -- avg loss: 0.0291
+epoch:, 4 -- batch: 170 -- avg loss: 0.0179
+epoch:, 4 -- batch: 180 -- avg loss: 0.0117
+epoch:, 4 -- batch: 190 -- avg loss: 0.0092
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+epoch:, 5 -- batch: 10 -- avg loss: 0.0169
+epoch:, 5 -- batch: 20 -- avg loss: 0.0079
+epoch:, 5 -- batch: 30 -- avg loss: 0.0040
+epoch:, 5 -- batch: 40 -- avg loss: 0.0161
+epoch:, 5 -- batch: 50 -- avg loss: 0.0055
+epoch:, 5 -- batch: 60 -- avg loss: 0.0089
+epoch:, 5 -- batch: 70 -- avg loss: 0.0067
+epoch:, 5 -- batch: 80 -- avg loss: 0.0059
+epoch:, 5 -- batch: 90 -- avg loss: 0.0078
+epoch:, 5 -- batch: 100 -- avg loss: 0.0088
+epoch:, 5 -- batch: 110 -- avg loss: 0.0039
+epoch:, 5 -- batch: 120 -- avg loss: 0.0089
+epoch:, 5 -- batch: 130 -- avg loss: 0.0064
+epoch:, 5 -- batch: 140 -- avg loss: 0.0082
+epoch:, 5 -- batch: 150 -- avg loss: 0.0068
+epoch:, 5 -- batch: 160 -- avg loss: 0.0032
+epoch:, 5 -- batch: 170 -- avg loss: 0.0085
+epoch:, 5 -- batch: 180 -- avg loss: 0.0094
+epoch:, 5 -- batch: 190 -- avg loss: 0.0046
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Accuracy: 0.9182
+Confusion Matrix:
+[[1493   32]
+ [ 105   45]]
+f1
+0.3964757709251101
+F1 Score on val_df for mask_ratio=0.8: 0.3965
+--------------------------------------------------
+Best Model: xlnet_analyzer_train_save/xlnet_analyzer_model_mask_2.pth with mask_ratio=0.2 and F1 Score=0.4247

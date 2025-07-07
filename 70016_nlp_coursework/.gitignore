@@ -1,0 +1,18 @@
+__pycache__/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+nlpvenv
+
+upsample_2.csv
+upsample_4.csv
+upsample_6.csv
+upsample_8.csv
+xlnet_analyzer_train_save/
+mast_ratio_training_log_xlnet
